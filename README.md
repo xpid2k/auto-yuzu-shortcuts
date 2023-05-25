@@ -1,5 +1,7 @@
 # auto-yuzu-shortcuts
 
+![](https://github.com/xpid2k/auto-yuzu-shortcuts/blob/main/usage.gif)
+
 ## Downloading a Prebuilt Executable
 
 If you don't want to install Python and the dependencies required to run this script, you can download a prebuilt executable from the [releases page](https://github.com/xpid2k/auto-yuzu-shortcuts/releases) of this repository.
